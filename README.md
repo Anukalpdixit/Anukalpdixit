@@ -1,6 +1,10 @@
 <div align="center">
 
-# Anukalp Dixit
+<img src="banner.svg" alt="Anukalp Dixit, building autonomous AI agent systems" width="100%" />
+
+</div>
+
+<div align="center">
 
 **AI Engineer in the making. I build autonomous agent systems and the infrastructure that keeps them fast, cheap, and safe.**
 
