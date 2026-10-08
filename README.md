@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2CE5C6&center=true&vCenter=true&width=640&lines=Multi-Agent+Systems+%7C+MCP+%7C+Dynamic+Tooling;Master-Worker+Orchestration+%E2%80%A2+Local-First+Execution;B.Tech+CSE+(IBM+Specialization)+%40+Medicaps;Open+to+AI+Engineer+%2F+Product+Developer+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2CE5C6&center=true&vCenter=true&width=640&lines=Multi-Agent+Systems+%7C+MCP+%7C+Dynamic+Tooling;Master-Worker+Orchestration+%E2%80%A2+Local-First+Execution;Open+to+AI+Engineer+%2F+Product+Developer+roles)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anukalp--dixit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anukalp-dixit-351573353)
 [![Gmail](https://img.shields.io/badge/Email-anukalp.oreca@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anukalp.oreca@gmail.com)
